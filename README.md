@@ -23,10 +23,10 @@ This project analyzes COVID-19 data to answer key questions about pandemic trend
 5. Statistical modeling and correlation analysis
 
 ## Files
-- `src/Covid19_data_analysis.Rmd` - Main analysis notebook
-- `src/Covid19_data_analysis.html` - Knitted output
-- `plots/` - Generated visualizations
-- `data/` - Data documentation
+- [Covid19_data_analysis.Rmd](Covid19_data_analysis.Rmd) - Main analysis notebook
+- [Covid19_data_analysis.html](Covid19_data_analysis.html) - Knitted output
+- [plots](plots) - Generated visualizations
+- [Data source containg all csv files](https://github.com/CSSEGISandData/COVID-19/tree/master/csse_covid_19_data/csse_covid_19_time_series) - Data documentation
 
 ## Requirements
 - R 4.0+
@@ -34,8 +34,7 @@ This project analyzes COVID-19 data to answer key questions about pandemic trend
 
 ## Usage
 1. Clone the repository
-2. Open `Covid19_data_analysis.Rmd` in RStudio
+2. Open [Covid19_data_analysis.Rmd](Covid19_data_analysis.Rmd) in RStudio
 3. Run all chunks to reproduce the analysis
 
-## Contact
-[Your Name] - [Your Email/GitHub]
+
