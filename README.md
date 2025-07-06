@@ -23,9 +23,9 @@ This project analyzes COVID-19 data to answer key questions about pandemic trend
 5. Statistical modeling and correlation analysis
 
 ## Files
-- [COVID19_data_analysis](COVID19_data_analysis.Rmd) - Main analysis notebook
-- [Covid19_data_analysis.html](Covid19_data_analysis.html) - Knitted output
-- [plots](plots) - Generated visualizations
+- [Covid19_data_analysis](Covid19_data_analysis.Rmd) - Main analysis notebook
+- [Covid19_data_analysis-.html](Covid19_data_analysis-.html) - Knitted output
+- [Plots](Plots) - Generated visualizations
 - [Data source containg all csv files](https://github.com/CSSEGISandData/COVID-19/tree/master/csse_covid_19_data/csse_covid_19_time_series) - Data documentation
 
 ## Requirements
