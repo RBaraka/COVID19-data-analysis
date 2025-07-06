@@ -433,6 +433,10 @@ print(low_residual_states, digits = 2)
 
 ## Conclusions
 
+### Possible Bias
+- Countries may show inacuate recordings due to healhtcare sysytems diffrence or avilablity. 
+- Some confirmed cases may have been not recorded after the at home kits that was provided. 
+- Among the united states, policy changes and crisi managment diffrence may have affcted the data.
 
 ### Main Findings
 
